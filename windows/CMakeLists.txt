@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
 project(dino_run LANGUAGES CXX)
 
-set(BINARY_NAME "dino_run")
+set(BINARY_NAME "ancient_adventure")
 
 cmake_policy(SET CMP0063 NEW)
 

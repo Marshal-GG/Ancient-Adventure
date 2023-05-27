@@ -3,7 +3,7 @@ import 'dart:math';
 import 'package:flame/components.dart';
 
 import '/game/enemy.dart';
-import '/game/dino_run.dart';
+import 'ancient_adventure.dart';
 import '/models/enemy_data.dart';
 
 // This class is responsible for spawning random enemies at certain

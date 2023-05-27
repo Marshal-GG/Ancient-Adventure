@@ -1,0 +1,5 @@
+APK file location 
+[build\app\outputs\flutter-apk\app-release.apk]
+
+cmd to build
+[flutter build apk]

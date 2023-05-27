@@ -1,4 +1,3 @@
-## None of the images, sprites or textures under this directory are owned by this repo owner. Following are the links to original their origin
 
 ## Dino
 

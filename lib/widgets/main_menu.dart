@@ -3,7 +3,7 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 
 import '/widgets/hud.dart';
-import '/game/dino_run.dart';
+import '../game/ancient_adventure.dart';
 import '/widgets/settings_menu.dart';
 
 // This represents the main menu overlay.
@@ -36,7 +36,7 @@ class MainMenu extends StatelessWidget {
                 spacing: 10,
                 children: [
                   const Text(
-                    'Dino Run',
+                    'Ancient Adventure',
                     style: TextStyle(
                       fontSize: 50,
                       color: Colors.white,
